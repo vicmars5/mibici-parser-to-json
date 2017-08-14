@@ -1,0 +1,1938 @@
+[
+  {
+    "id": "2",
+    "name": "(GDL-001) C. Epigmenio Glez./ Av. 16 de Sept.",
+    "status": "IN_SERVICE",
+    "latitude": "20.666378",
+    "longitude": "-103.34882",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "3",
+    "name": "(GDL-002) C. Colonias  / Av.  Ni�os h�roes",
+    "status": "IN_SERVICE",
+    "latitude": "20.667228",
+    "longitude": "-103.366",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "4",
+    "name": "(GDL-003) C. Vidrio / Av. Chapultepec",
+    "status": "IN_SERVICE",
+    "latitude": "20.66769",
+    "longitude": "-103.368252",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "5",
+    "name": "(GDL-004) C. Ghilardi /C. Miraflores",
+    "status": "IN_SERVICE",
+    "latitude": "20.69175",
+    "longitude": "-103.36255",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "6",
+    "name": "(GDL-005) C. San Diego /Calzada Independencia",
+    "status": "IN_SERVICE",
+    "latitude": "20.681151",
+    "longitude": "-103.338863",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "8",
+    "name": "(GDL-006) C. Venustiano Carranza /C. Reforma",
+    "status": "IN_SERVICE",
+    "latitude": "20.6807519",
+    "longitude": "-103.3443801",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "9",
+    "name": "(GDL-007)C. Epigmenio Glez./Av. Cristobal C.",
+    "status": "IN_SERVICE",
+    "latitude": "20.666771",
+    "longitude": "-103.350562",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "10",
+    "name": "(GDL-008) C. J. Angulo / C. Gonz�lez Ortega",
+    "status": "IN_SERVICE",
+    "latitude": "20.681871",
+    "longitude": "-103.350396",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "11",
+    "name": "(GDL-009) Calz. Federalismo/ C. J. Angulo",
+    "status": "IN_SERVICE",
+    "latitude": "20.681984",
+    "longitude": "-103.353835",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "12",
+    "name": "(GDL-010) C. Cruz verde / C. Joaquin Angulo",
+    "status": "IN_SERVICE",
+    "latitude": "20.681786",
+    "longitude": "-103.357267",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "13",
+    "name": "(GDL-011) C. Garibaldi / C. Fr�as",
+    "status": "IN_SERVICE",
+    "latitude": "20.681081",
+    "longitude": "-103.360099",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "14",
+    "name": "(GDL-012) C. Joaqu�n Angulo / C. Ghilardi",
+    "status": "IN_SERVICE",
+    "latitude": "20.681989",
+    "longitude": "-103.36292",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "15",
+    "name": "(GDL-013) C. Vidrio  / C. Marsella",
+    "status": "IN_SERVICE",
+    "latitude": "20.667623",
+    "longitude": "-103.370499",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "16",
+    "name": "(GDL-014)C. J. Angulo/C. Jos� Clemente Orozco",
+    "status": "IN_SERVICE",
+    "latitude": "20.682059",
+    "longitude": "-103.365969",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "17",
+    "name": "(GDL-015) C. Herrera y Cairo /C. Pedro Buzeta",
+    "status": "IN_SERVICE",
+    "latitude": "20.683191",
+    "longitude": "-103.369349",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "18",
+    "name": "(GDL-016)C. Bernardo de Balbuena/C. J. Angulo",
+    "status": "IN_SERVICE",
+    "latitude": "20.682007",
+    "longitude": "-103.372642",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "19",
+    "name": "(GDL-017) Av. M�xico /C. Bernardo de Balbuena",
+    "status": "IN_SERVICE",
+    "latitude": "20.679086",
+    "longitude": "-103.372841",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "20",
+    "name": "(GDL-018) Av. M�xico / C. Manuel M. Di�guez",
+    "status": "IN_SERVICE",
+    "latitude": "20.679296",
+    "longitude": "-103.370658",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "21",
+    "name": "(GDL-019)  C. Juan Manuel / C. Andr�s Ter�n",
+    "status": "IN_SERVICE",
+    "latitude": "20.678835",
+    "longitude": "-103.368045",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "22",
+    "name": "(GDL-020) C. Juan Manuel / C.General Coronado",
+    "status": "IN_SERVICE",
+    "latitude": "20.678714",
+    "longitude": "-103.36573",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "23",
+    "name": "(GDL-021) C. Nicol�s Romero / C. Reforma",
+    "status": "IN_SERVICE",
+    "latitude": "20.67966",
+    "longitude": "-103.362224",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "24",
+    "name": "(GDL-022)C. San Felipe /C. Enrique D. de Le�n",
+    "status": "IN_SERVICE",
+    "latitude": "20.679389",
+    "longitude": "-103.35913",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "25",
+    "name": "(GDL-023) C. Jes�s / C. San Felipe",
+    "status": "IN_SERVICE",
+    "latitude": "20.679309",
+    "longitude": "-103.356281",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "26",
+    "name": "(GDL-024) Av.  Federalismo / C. Juan Manuel",
+    "status": "IN_SERVICE",
+    "latitude": "20.678777",
+    "longitude": "-103.354035",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "27",
+    "name": "(GDL-025) C. Reforma / C. Gonz�lez Ortega",
+    "status": "IN_SERVICE",
+    "latitude": "20.680227",
+    "longitude": "-103.350146",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "28",
+    "name": "(GDL-026) C. Pedro Loza / C. Reforma",
+    "status": "IN_SERVICE",
+    "latitude": "20.680478",
+    "longitude": "-103.348377",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "29",
+    "name": "(GDL-027) C. Bel�n / C. San Felipe",
+    "status": "IN_SERVICE",
+    "latitude": "20.679861",
+    "longitude": "-103.345198",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "30",
+    "name": "(GDL-028) C. Gregorio D�vila /C. Manuel Acu�a",
+    "status": "IN_SERVICE",
+    "latitude": "20.684187",
+    "longitude": "-103.36113",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "31",
+    "name": "(GDL-029)Calz. Indep. /C. Juan Manuel",
+    "status": "IN_SERVICE",
+    "latitude": "20.679505",
+    "longitude": "-103.339753",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "32",
+    "name": "(GDL-030) C. Pedro Moreno/ C. Progreso",
+    "status": "IN_SERVICE",
+    "latitude": "20.675461",
+    "longitude": "-103.367501",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "33",
+    "name": "(GDL-031) C. Hospital / C. Andr�s Ter�n",
+    "status": "IN_SERVICE",
+    "latitude": "20.685652",
+    "longitude": "-103.368215",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "34",
+    "name": "(GDL-032) Av. Hidalgo  / C. Bel�n",
+    "status": "IN_SERVICE",
+    "latitude": "20.6772627",
+    "longitude": "-103.344908",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "35",
+    "name": "(GDL-033) Av. Hidalgo / C. Pedro Loza",
+    "status": "IN_SERVICE",
+    "latitude": "20.677419",
+    "longitude": "-103.347983",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "36",
+    "name": "(GDL-034) C. Morelos / C. Donato Guerra",
+    "status": "IN_SERVICE",
+    "latitude": "20.676461",
+    "longitude": "-103.350244",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "37",
+    "name": "(GDL-035)C. Mezquit�n / Av. Hidalgo",
+    "status": "IN_SERVICE",
+    "latitude": "20.677315",
+    "longitude": "-103.3534145",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "38",
+    "name": "(GDL-036) C. Marcos Castellanos/ C. Morelos",
+    "status": "IN_SERVICE",
+    "latitude": "20.676078",
+    "longitude": "-103.356458",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "39",
+    "name": "(GDL-037) C.Juan N. Cumplido /C. Independenci",
+    "status": "IN_SERVICE",
+    "latitude": "20.678034",
+    "longitude": "-103.358466",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "40",
+    "name": "(GDL-038) C. Nicol�s Romero / Av. Hidalgo",
+    "status": "IN_SERVICE",
+    "latitude": "20.676656",
+    "longitude": "-103.362331",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "41",
+    "name": "(GDL-039) C. General Coronado / Av. Hidalgo",
+    "status": "IN_SERVICE",
+    "latitude": "20.677108",
+    "longitude": "-103.365088",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "42",
+    "name": "(GDL-040) C. Morelos / C. Progreso",
+    "status": "IN_SERVICE",
+    "latitude": "20.676067",
+    "longitude": "-103.367049",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "43",
+    "name": "(GDL-041) C. Manuel M. Di�guez / Av. Hidalgo",
+    "status": "IN_SERVICE",
+    "latitude": "20.67671",
+    "longitude": "-103.37066",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "44",
+    "name": "(GDL-042) C. Bernardo de Balbuena /Av Hidalgo",
+    "status": "IN_SERVICE",
+    "latitude": "20.676628",
+    "longitude": "-103.372687",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "45",
+    "name": "(GDL-043) C. Sim�n Bolivar / C. L�pez Cotilla",
+    "status": "IN_SERVICE",
+    "latitude": "20.673756",
+    "longitude": "-103.372613",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "46",
+    "name": "(GDL-044)C. Gral. San Mart�n /Av.  Vallarta",
+    "status": "IN_SERVICE",
+    "latitude": "20.674636",
+    "longitude": "-103.371639",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "47",
+    "name": "(GDL-045) C. Pedro Moreno / C. Marsella",
+    "status": "IN_SERVICE",
+    "latitude": "20.675444",
+    "longitude": "-103.370147",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "48",
+    "name": "(GDL-046) C. Emerson / Av. Vallarta",
+    "status": "IN_SERVICE",
+    "latitude": "20.675014",
+    "longitude": "-103.365025",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "49",
+    "name": "(GDL-047) C. Robles Gil / Av. Vallarta",
+    "status": "IN_SERVICE",
+    "latitude": "20.674931",
+    "longitude": "-103.362351",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "50",
+    "name": "(GDL-048) C. Escorza / Av. Vallarta",
+    "status": "IN_SERVICE",
+    "latitude": "20.674721",
+    "longitude": "-103.358548",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "51",
+    "name": "(GDL-049) Lopez Cotilla/ Marcos Castellanos",
+    "status": "IN_SERVICE",
+    "latitude": "20.6740865",
+    "longitude": "-103.3563196",
+    "dpcapacity": "33"
+  },
+  {
+    "id": "52",
+    "name": "(GDL-050) C. Pedro Moreno / Calz. Federalismo",
+    "status": "IN_SERVICE",
+    "latitude": "20.675746",
+    "longitude": "-103.354579",
+    "dpcapacity": "23"
+  },
+  {
+    "id": "53",
+    "name": "(GDL-051) C. 8 de Julio / Av. Vallarta",
+    "status": "IN_SERVICE",
+    "latitude": "20.674559",
+    "longitude": "-103.352663",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "54",
+    "name": "(GDL-052) Av. Vallarta / Av. 16 de Sep.",
+    "status": "IN_SERVICE",
+    "latitude": "20.675244",
+    "longitude": "-103.347889",
+    "dpcapacity": "23"
+  },
+  {
+    "id": "55",
+    "name": "(GDL-053) C. Maestranza / Av. Vallarta",
+    "status": "IN_SERVICE",
+    "latitude": "20.675401",
+    "longitude": "-103.345665",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "56",
+    "name": "(GDL-054) Av Vallarta / Calzada Independencia",
+    "status": "IN_SERVICE",
+    "latitude": "20.675421",
+    "longitude": "-103.342049",
+    "dpcapacity": "23"
+  },
+  {
+    "id": "57",
+    "name": "(GDL-055) C. Degollado /C.Prisciliano S�nchez",
+    "status": "IN_SERVICE",
+    "latitude": "20.672696",
+    "longitude": "-103.345366",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "58",
+    "name": "(GDL-056) Av. 16 de Sept. / C. Miguel Blanco",
+    "status": "IN_SERVICE",
+    "latitude": "20.671971",
+    "longitude": "-103.347422",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "59",
+    "name": "(GDL-057) C. Ocampo / C. Prisciliano S�nchez",
+    "status": "IN_SERVICE",
+    "latitude": "20.672516",
+    "longitude": "-103.349573",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "60",
+    "name": "(GDL-058) C. Pavo / C. Prisciliano S�nchez",
+    "status": "IN_SERVICE",
+    "latitude": "20.672641",
+    "longitude": "-103.353542",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "61",
+    "name": "(GDL-059) C. Miguel Blanco / C. Penitenciaria",
+    "status": "IN_SERVICE",
+    "latitude": "20.672231",
+    "longitude": "-103.355508",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "62",
+    "name": "(GDL-060) C. Madero/ C. Camarena",
+    "status": "IN_SERVICE",
+    "latitude": "20.6734",
+    "longitude": "-103.357684",
+    "dpcapacity": "23"
+  },
+  {
+    "id": "63",
+    "name": "(GDL-061) C. Libertad /  C. Argentina",
+    "status": "IN_SERVICE",
+    "latitude": "20.671778",
+    "longitude": "-103.361274",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "64",
+    "name": "(GDL-062) C. Libertad / C. Mosc�",
+    "status": "IN_SERVICE",
+    "latitude": "20.673072",
+    "longitude": "-103.365055",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "65",
+    "name": "(GDL-063) C. Colonias  / C. L�pez Cotilla",
+    "status": "IN_SERVICE",
+    "latitude": "20.674132",
+    "longitude": "-103.366139",
+    "dpcapacity": "23"
+  },
+  {
+    "id": "66",
+    "name": "(GDL-064) C. Marsella / C. L�pez Cotilla",
+    "status": "IN_SERVICE",
+    "latitude": "20.673321",
+    "longitude": "-103.370571",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "67",
+    "name": "(GDL-065) C. Sim�n Bolivar / Av. La Paz",
+    "status": "IN_SERVICE",
+    "latitude": "20.672372",
+    "longitude": "-103.372584",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "68",
+    "name": "(GDL-066) C Lerdo de Tejada/C Gral. Sn Mart�n",
+    "status": "IN_SERVICE",
+    "latitude": "20.671364",
+    "longitude": "-103.371786",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "69",
+    "name": "(GDL-067) Calzada Federalismo / C. Vidrio",
+    "status": "IN_SERVICE",
+    "latitude": "20.6668825",
+    "longitude": "-103.3555917",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "70",
+    "name": "(GDL-068) C. Guadalupe Zuno / Av. Chapultepec",
+    "status": "IN_SERVICE",
+    "latitude": "20.670512",
+    "longitude": "-103.368306",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "71",
+    "name": "(GDL-069) C. Colonias / C. Guadalupe Zuno",
+    "status": "IN_SERVICE",
+    "latitude": "20.670468",
+    "longitude": "-103.366071",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "72",
+    "name": "(GDL-070) Av. La  Paz / C. Juan de Ojeda",
+    "status": "IN_SERVICE",
+    "latitude": "20.671455",
+    "longitude": "-103.363633",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "73",
+    "name": "(GDL-071) Av. La Paz /Av.Enrique D�az de Le�n",
+    "status": "IN_SERVICE",
+    "latitude": "20.670362",
+    "longitude": "-103.359537",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "74",
+    "name": "(GDL-072) Av. La Paz / C. Camarena",
+    "status": "IN_SERVICE",
+    "latitude": "20.67056",
+    "longitude": "-103.357589",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "75",
+    "name": "(GDL-073) Av. La Paz / Av. Federalismo",
+    "status": "IN_SERVICE",
+    "latitude": "20.669955",
+    "longitude": "-103.355032",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "76",
+    "name": "(GDL-074) C. Enrique Gonz�lez / C. Libertad",
+    "status": "IN_SERVICE",
+    "latitude": "20.67131",
+    "longitude": "-103.351651",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "77",
+    "name": "(GDL-075) C. Rio Seco / C. Nueva Galicia",
+    "status": "IN_SERVICE",
+    "latitude": "20.669628",
+    "longitude": "-103.348768",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "78",
+    "name": "(GDL-076) C. Ram�n Corona / C. Libertad",
+    "status": "IN_SERVICE",
+    "latitude": "20.670243",
+    "longitude": "-103.346195",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "79",
+    "name": "(GDL-077) C. Argentina / C. Pedro Moreno",
+    "status": "IN_SERVICE",
+    "latitude": "20.675631",
+    "longitude": "-103.36134",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "80",
+    "name": "(GDL-078) C. Comercio / C. La Paz",
+    "status": "IN_SERVICE",
+    "latitude": "20.667946",
+    "longitude": "-103.346775",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "81",
+    "name": "(GDL-079)  C. Donato Guerra /Av. La Paz",
+    "status": "IN_SERVICE",
+    "latitude": "20.6688627",
+    "longitude": "-103.3513022",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "82",
+    "name": "(GDL-080) C. Manuel Acu�a / Av. Am�ricas",
+    "status": "IN_SERVICE",
+    "latitude": "20.68432",
+    "longitude": "-103.373252",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "83",
+    "name": "(GDL-081) C. Venezuela / Av. Ni�os H�roes",
+    "status": "IN_SERVICE",
+    "latitude": "20.667352",
+    "longitude": "-103.363338",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "84",
+    "name": "(GDL-082)C. Gdpe. Montenegro/C.Nu�o de Guzman",
+    "status": "IN_SERVICE",
+    "latitude": "20.669326",
+    "longitude": "-103.362535",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "85",
+    "name": "(GDL-083) C. Vidrio / Av. Enrique D�az",
+    "status": "IN_SERVICE",
+    "latitude": "20.667532",
+    "longitude": "-103.3595222",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "86",
+    "name": "(GDL-084) C. Montenegro / Av. Chapultepec",
+    "status": "IN_SERVICE",
+    "latitude": "20.669306",
+    "longitude": "-103.368312",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "87",
+    "name": "(GDL-085)C. Gdpe. Zuno/ Av.  Uni�n",
+    "status": "IN_SERVICE",
+    "latitude": "20.670426",
+    "longitude": "-103.373378",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "88",
+    "name": "(GDL-086) C. Sim�n Bolivar / Av. Ni�os H�roes",
+    "status": "IN_SERVICE",
+    "latitude": "20.66704",
+    "longitude": "-103.372444",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "91",
+    "name": "(ZPN-001) Emilio Carranza /Carretera Tesist�n",
+    "status": "IN_SERVICE",
+    "latitude": "20.73244",
+    "longitude": "-103.396083",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "92",
+    "name": "(ZPN-002) C. Emilio Carranza /C. Independenci",
+    "status": "IN_SERVICE",
+    "latitude": "20.726376",
+    "longitude": "-103.397466",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "93",
+    "name": "(ZPN-003) C. Emilio Carranza / Av. Hidalgo",
+    "status": "IN_SERVICE",
+    "latitude": "20.723081",
+    "longitude": "-103.398071",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "94",
+    "name": "Ex-ZPN-004",
+    "status": "NOT_IN_SERVICE",
+    "latitude": "20.7292222",
+    "longitude": "-103.3952005",
+    "dpcapacity": "0"
+  },
+  {
+    "id": "95",
+    "name": "(ZPN-005) C. Del Corral / C. An�huac",
+    "status": "IN_SERVICE",
+    "latitude": "20.730841",
+    "longitude": "-103.394267",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "96",
+    "name": "(ZPN-006) C. Independencia / C. An�huac",
+    "status": "IN_SERVICE",
+    "latitude": "20.725815",
+    "longitude": "-103.395308",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "97",
+    "name": "Ex-ZPN-007",
+    "status": "NOT_IN_SERVICE",
+    "latitude": "20.726196",
+    "longitude": "-103.392672",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "98",
+    "name": "(ZPN-008) C. Vicente Guerrero / Av. Hidalgo",
+    "status": "IN_SERVICE",
+    "latitude": "20.72201",
+    "longitude": "-103.39427",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "99",
+    "name": "Ex-ZPN-009",
+    "status": "NOT_IN_SERVICE",
+    "latitude": "20.685108",
+    "longitude": "-103.333746",
+    "dpcapacity": "0"
+  },
+  {
+    "id": "100",
+    "name": "(ZPN-010) C. Ram�n Corona / C. Cuauht�moc",
+    "status": "IN_SERVICE",
+    "latitude": "20.723889",
+    "longitude": "-103.394585",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "101",
+    "name": "(ZPN-011) C. Pino Su�rez / C. L�pez Cotilla",
+    "status": "IN_SERVICE",
+    "latitude": "20.726558",
+    "longitude": "-103.389242",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "102",
+    "name": "(ZPN-012) C. Pino Su�rez / Av. Juan Pablo II",
+    "status": "IN_SERVICE",
+    "latitude": "20.728446",
+    "longitude": "-103.39031",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "103",
+    "name": "(ZPN-013) C. Eva Brise�o / C. Javier Mina",
+    "status": "IN_SERVICE",
+    "latitude": "20.720438",
+    "longitude": "-103.391894",
+    "dpcapacity": "23"
+  },
+  {
+    "id": "104",
+    "name": "(ZPN-014) C. Juan Manuel / Pino Su�rez",
+    "status": "IN_SERVICE",
+    "latitude": "20.724044",
+    "longitude": "-103.390802",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "105",
+    "name": "(ZPN-015) C. Sarc�fago / C. Panteon",
+    "status": "IN_SERVICE",
+    "latitude": "20.725261",
+    "longitude": "-103.387365",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "106",
+    "name": "(ZPN-016) Av. Hidalgo/ C. Emiliano Zapata",
+    "status": "IN_SERVICE",
+    "latitude": "20.721643",
+    "longitude": "-103.3902",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "107",
+    "name": "(ZPN-017) C. Juan Manuel / C. Pedro Moreno",
+    "status": "IN_SERVICE",
+    "latitude": "20.72374",
+    "longitude": "-103.388657",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "108",
+    "name": "(ZPN-018) Av. Juan Pablo II / C. Santa Luc�a",
+    "status": "IN_SERVICE",
+    "latitude": "20.727068",
+    "longitude": "-103.386286",
+    "dpcapacity": "23"
+  },
+  {
+    "id": "109",
+    "name": "Ex-ZPN-019",
+    "status": "NOT_IN_SERVICE",
+    "latitude": "20.7232207",
+    "longitude": "-103.3855829",
+    "dpcapacity": "0"
+  },
+  {
+    "id": "110",
+    "name": "(ZPN-020) Av. Aurelio Ortega / Av. Laureles",
+    "status": "IN_SERVICE",
+    "latitude": "20.721039",
+    "longitude": "-103.386942",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "111",
+    "name": "(ZPN-021) Blvrd. Panamericano/ C.Santa M�nica",
+    "status": "IN_SERVICE",
+    "latitude": "20.72832",
+    "longitude": "-103.384156",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "112",
+    "name": "(ZPN-022) Av. Aurelio Ortega / C. Morelos",
+    "status": "IN_SERVICE",
+    "latitude": "20.722123",
+    "longitude": "-103.383147",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "113",
+    "name": "(ZPN-023) C. Juan Diego / C. Sarc�fago",
+    "status": "IN_SERVICE",
+    "latitude": "20.72489",
+    "longitude": "-103.383614",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "114",
+    "name": "(ZPN-024) Manuel H. Alatorre / C. Industria",
+    "status": "IN_SERVICE",
+    "latitude": "20.72356",
+    "longitude": "-103.381901",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "115",
+    "name": "(ZPN-025) C. Pedro Moreno / C. Jesus Garc�a",
+    "status": "IN_SERVICE",
+    "latitude": "20.727913",
+    "longitude": "-103.388162",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "116",
+    "name": "Ex-ZPN-026",
+    "status": "NOT_IN_SERVICE",
+    "latitude": "20.68692",
+    "longitude": "-103.33467",
+    "dpcapacity": "0"
+  },
+  {
+    "id": "117",
+    "name": "(ZPN-027) C. 5 de Mayo / C. Noviembre",
+    "status": "IN_SERVICE",
+    "latitude": "20.720452",
+    "longitude": "-103.388629",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "118",
+    "name": "(ZPN-028) C. Ejido / C. Sabino Delgado",
+    "status": "IN_SERVICE",
+    "latitude": "20.729724",
+    "longitude": "-103.398598",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "119",
+    "name": "(ZPN-029) C. La Villa / C. Cuauht�moc",
+    "status": "IN_SERVICE",
+    "latitude": "20.728147",
+    "longitude": "-103.393858",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "120",
+    "name": "(ZPN-030) C. Francisco Sarabia / C. Libertad",
+    "status": "IN_SERVICE",
+    "latitude": "20.727381",
+    "longitude": "-103.399976",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "125",
+    "name": "(ZPN-031) C. Ni�o Obrero/Calz L�zaro C�rdenas",
+    "status": "IN_SERVICE",
+    "latitude": "20.67342",
+    "longitude": "-103.40945",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "126",
+    "name": "(ZPN-032) Calz L�zaro C�rdenas / Av San Fco",
+    "status": "IN_SERVICE",
+    "latitude": "20.67195",
+    "longitude": "-103.40641",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "127",
+    "name": "(ZPN-033) Av L�zaro C�rdenas / Av San Ignacio",
+    "status": "IN_SERVICE",
+    "latitude": "20.6707",
+    "longitude": "-103.40458",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "128",
+    "name": "(ZPN-034) C. San Demetrio / C. Ni�o Obrero",
+    "status": "IN_SERVICE",
+    "latitude": "20.66984",
+    "longitude": "-103.40968",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "129",
+    "name": "(ZPN-035) C. San Juan Bosco / Av. San Ignacio",
+    "status": "IN_SERVICE",
+    "latitude": "20.66844",
+    "longitude": "-103.40495",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "130",
+    "name": "(ZPN-036) C. Ni�o Obrero /C Jos� Mar�a Robles",
+    "status": "IN_SERVICE",
+    "latitude": "20.66731",
+    "longitude": "-103.40953",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "131",
+    "name": "(ZPN-037) Av. San Ignacio / Av. Guadalupe",
+    "status": "IN_SERVICE",
+    "latitude": "20.66677",
+    "longitude": "-103.40335",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "132",
+    "name": "(ZPN-038) C. Santa Rita / Av. Guadalupe",
+    "status": "IN_SERVICE",
+    "latitude": "20.66581",
+    "longitude": "-103.40662",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "133",
+    "name": "(ZPN-039) C. Juan Diego / C. Ni�o Obrero",
+    "status": "IN_SERVICE",
+    "latitude": "20.66312806",
+    "longitude": "-103.4079076",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "134",
+    "name": "(ZPN-040) C. Santa Mar�a / C. �rbol",
+    "status": "IN_SERVICE",
+    "latitude": "20.66033761",
+    "longitude": "-103.4037559",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "135",
+    "name": "(ZPN-041) C. 12 de Diciembre / C. Juan Diego",
+    "status": "IN_SERVICE",
+    "latitude": "20.66463",
+    "longitude": "-103.404",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "136",
+    "name": "(ZPN-042) C. Tonatiuh / Av Tizoc",
+    "status": "IN_SERVICE",
+    "latitude": "20.65925105",
+    "longitude": "-103.4065612",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "137",
+    "name": "(ZPN-043) C. Ermita / C. Del �rbol",
+    "status": "IN_SERVICE",
+    "latitude": "20.65938",
+    "longitude": "-103.40195",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "138",
+    "name": "Ex-ZPN-044",
+    "status": "NOT_IN_SERVICE",
+    "latitude": "20.69705",
+    "longitude": "-103.36322",
+    "dpcapacity": "0"
+  },
+  {
+    "id": "139",
+    "name": "(ZPN-045) Av. Tizoc / C. Iztacc�huatl",
+    "status": "IN_SERVICE",
+    "latitude": "20.65701",
+    "longitude": "-103.40464",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "140",
+    "name": "(ZPN-046) Av. Cubilete / Av. L�pez Mateos",
+    "status": "IN_SERVICE",
+    "latitude": "20.656866",
+    "longitude": "-103.397725",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "141",
+    "name": "(ZPN-047) Av. Tizoc / Av. L�pez Mateos",
+    "status": "IN_SERVICE",
+    "latitude": "20.65381",
+    "longitude": "-103.40134",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "142",
+    "name": "(TLQ-001) BlvrdGarc�a Barrag�n/C. R�o Tajo",
+    "status": "IN_SERVICE",
+    "latitude": "20.64483",
+    "longitude": "-103.31948",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "143",
+    "name": "(TLQ-002) C. Ju�rez / Av. Ni�os H�roes",
+    "status": "IN_SERVICE",
+    "latitude": "20.6383352",
+    "longitude": "-103.3163317",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "144",
+    "name": "(TLQ-003) C. Contreras Medell�n/Donato Guerra",
+    "status": "IN_SERVICE",
+    "latitude": "20.64193",
+    "longitude": "-103.31366",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "145",
+    "name": "(TLQ-004) C. Donato Guerra / C. Obreg�n",
+    "status": "IN_SERVICE",
+    "latitude": "20.64185",
+    "longitude": "-103.3106",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "146",
+    "name": "(TLQ-005) C. Zalatit�n / C. Jalisco",
+    "status": "IN_SERVICE",
+    "latitude": "20.64188",
+    "longitude": "-103.30651",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "147",
+    "name": "Ex-TLQ-006",
+    "status": "NOT_IN_SERVICE",
+    "latitude": "20.641848",
+    "longitude": "-103.3026",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "148",
+    "name": "(TLQ-007) Blvrd.Garc�a Barrag�n/Donato Guerra",
+    "status": "IN_SERVICE",
+    "latitude": "20.64176",
+    "longitude": "-103.31716",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "149",
+    "name": "(TLQ-008) C. Ju�rez / C. Francisco de Miranda",
+    "status": "IN_SERVICE",
+    "latitude": "20.63841",
+    "longitude": "-103.31334",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "150",
+    "name": "(TLQ-009) C. Progreso / C. Ju�rez",
+    "status": "IN_SERVICE",
+    "latitude": "20.63816",
+    "longitude": "-103.31148",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "151",
+    "name": "(TLQ-010) C. Zaragoza / C. Emilio Carranza",
+    "status": "IN_SERVICE",
+    "latitude": "20.63834",
+    "longitude": "-103.30952",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "152",
+    "name": "(TLQ-011) C. Jalisco / C. Hidalgo",
+    "status": "IN_SERVICE",
+    "latitude": "20.63922",
+    "longitude": "-103.30465",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "153",
+    "name": "(TLQ-012) C. Paseo Don Bosco / C. Tonal�",
+    "status": "IN_SERVICE",
+    "latitude": "20.63613",
+    "longitude": "-103.3019",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "154",
+    "name": "(GDL-087) Av. Am�ricas / Av. L�pez Mateos",
+    "status": "IN_SERVICE",
+    "latitude": "20.69493",
+    "longitude": "-103.37333",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "155",
+    "name": "(GDL-088) Av.Plan de San Luis/C. Andr�s Teran",
+    "status": "IN_SERVICE",
+    "latitude": "20.6972",
+    "longitude": "-103.36773",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "156",
+    "name": "(GDL-089) C. Juan �lvarez / C. Cruz Verde",
+    "status": "IN_SERVICE",
+    "latitude": "20.68456",
+    "longitude": "-103.35699",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "157",
+    "name": "(GDL-090) Calz. Federalismo / C. Durango",
+    "status": "IN_SERVICE",
+    "latitude": "20.69865",
+    "longitude": "-103.35519",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "158",
+    "name": "(GDL-091) C. Magisterio /Av. M. �vila Camacho",
+    "status": "IN_SERVICE",
+    "latitude": "20.696097",
+    "longitude": "-103.349382",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "159",
+    "name": "(GDL-092) Calz Federalismo / Av Plan San Luis",
+    "status": "IN_SERVICE",
+    "latitude": "20.69610588",
+    "longitude": "-103.3549492",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "160",
+    "name": "(GDL-093) C. H Colegio Militar / Av. Am�ricas",
+    "status": "IN_SERVICE",
+    "latitude": "20.69311",
+    "longitude": "-103.37298",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "161",
+    "name": "(GDL-094) C. Manuel Cambre / C. Andr�s Teran",
+    "status": "IN_SERVICE",
+    "latitude": "20.69324",
+    "longitude": "-103.36757",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "162",
+    "name": "(GDL-095)  C. Mariano B�rcena / Maestros",
+    "status": "IN_SERVICE",
+    "latitude": "20.692725",
+    "longitude": "-103.3516",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "163",
+    "name": "(GDL-096) C. Jes�s Garc�a / C. Gonz�lez Orte",
+    "status": "IN_SERVICE",
+    "latitude": "20.6891",
+    "longitude": "-103.35071",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "164",
+    "name": "(GDL-097) C. Mar�a Vigil / C. Juan N Cumplido",
+    "status": "IN_SERVICE",
+    "latitude": "20.68981",
+    "longitude": "-103.3582",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "165",
+    "name": "(GDL-098) Calz. Federalismo / Av. Maestros",
+    "status": "IN_SERVICE",
+    "latitude": "20.693072",
+    "longitude": "-103.354209",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "166",
+    "name": "(GDL-099) C. Eulogio Parra /C.Gonz�lez Ortega",
+    "status": "IN_SERVICE",
+    "latitude": "20.687196",
+    "longitude": "-103.350525",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "167",
+    "name": "(GDL-100) C. Ayuntamiento/C. A. R. Plasencia",
+    "status": "IN_SERVICE",
+    "latitude": "20.69269",
+    "longitude": "-103.37082",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "168",
+    "name": "(GDL-101) C. Amado Nervo /C. Jos� Mar�a Vigil",
+    "status": "IN_SERVICE",
+    "latitude": "20.68969",
+    "longitude": "-103.37486",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "169",
+    "name": "(GDL-102) C. Mar�a Vigil/C. Manuel M. Dieguez",
+    "status": "IN_SERVICE",
+    "latitude": "20.68985",
+    "longitude": "-103.37071",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "170",
+    "name": "(GDL-103) J. Clemente Orozco /C. Jes�s Garc�a",
+    "status": "IN_SERVICE",
+    "latitude": "20.68861",
+    "longitude": "-103.365814",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "171",
+    "name": "(GDL-104) C. Pedro Loza / Av. Manuel Acu�a",
+    "status": "IN_SERVICE",
+    "latitude": "20.68348",
+    "longitude": "-103.34853",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "172",
+    "name": "(GDL-105) C. Pino Su�rez / C. Joaquin Angulo",
+    "status": "IN_SERVICE",
+    "latitude": "20.6822",
+    "longitude": "-103.34601",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "173",
+    "name": "(GDL-106) C. Juan �lvarez / C. Bel�n",
+    "status": "IN_SERVICE",
+    "latitude": "20.68465",
+    "longitude": "-103.34526",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "174",
+    "name": "(GDL-107) Calz. Federalismo/C. J. Mar�a Vigil",
+    "status": "IN_SERVICE",
+    "latitude": "20.68981",
+    "longitude": "-103.353973",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "175",
+    "name": "(GDL-108) C. Hospital / C. Alameda",
+    "status": "IN_SERVICE",
+    "latitude": "20.68586",
+    "longitude": "-103.33964",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "176",
+    "name": "(GDL-109) C. Eulogio Parra / Av. Am�ricas",
+    "status": "IN_SERVICE",
+    "latitude": "20.68725",
+    "longitude": "-103.37363",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "177",
+    "name": "(GDL-110) C. Manuel Di�guez/Av. Eulogio Parra",
+    "status": "IN_SERVICE",
+    "latitude": "20.68723",
+    "longitude": "-103.37084",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "178",
+    "name": "(GDL-111) C. Jos� Palomar / C. Hospital",
+    "status": "IN_SERVICE",
+    "latitude": "20.686228",
+    "longitude": "-103.336305",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "179",
+    "name": "(GDL-112) C. C. Orozco/C. Gral. Eulogio Parra",
+    "status": "IN_SERVICE",
+    "latitude": "20.687",
+    "longitude": "-103.36582",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "180",
+    "name": "(GDL-113) C. Ghilardi / C. Arista",
+    "status": "IN_SERVICE",
+    "latitude": "20.68765483",
+    "longitude": "-103.3627938",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "181",
+    "name": "(GDL-114) C. Monte C�ucaso / C. Alameda",
+    "status": "IN_SERVICE",
+    "latitude": "20.68925",
+    "longitude": "-103.3361",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "182",
+    "name": "(GDL-115) Calz. Federalismo / C. Fco. Zarco",
+    "status": "IN_SERVICE",
+    "latitude": "20.68605",
+    "longitude": "-103.35408",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "183",
+    "name": "(GDL-116) Av Manuel Acu�a/C. Pablo Villase�or",
+    "status": "IN_SERVICE",
+    "latitude": "20.68447",
+    "longitude": "-103.37989",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "184",
+    "name": "(GDL-117) Av Manuel Acu�a / C Fray Fco Frejes",
+    "status": "IN_SERVICE",
+    "latitude": "20.68427",
+    "longitude": "-103.37653",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "185",
+    "name": "(GDL-118) C. Antonio de Le�n / C. Garibaldi",
+    "status": "IN_SERVICE",
+    "latitude": "20.68168",
+    "longitude": "-103.38197",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "186",
+    "name": "(GDL-119) C. Fco Rojas Gonz�lez /C. Garibaldi",
+    "status": "IN_SERVICE",
+    "latitude": "20.68153",
+    "longitude": "-103.3785",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "187",
+    "name": "(GDL-120) C. Agust�n de la Rosa /C. Garibaldi",
+    "status": "IN_SERVICE",
+    "latitude": "20.68132",
+    "longitude": "-103.37537",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "188",
+    "name": "(GDL-121) C. Tom�s V. G�mez / Av. M�xico",
+    "status": "IN_SERVICE",
+    "latitude": "20.67914",
+    "longitude": "-103.38253",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "189",
+    "name": "(GDL-122) Av. M�xico / C. Fray Luis DePalacio",
+    "status": "IN_SERVICE",
+    "latitude": "20.67947",
+    "longitude": "-103.37926",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "190",
+    "name": "(GDL-123) C. Aurelio L. Gallardo / Av. M�xico",
+    "status": "IN_SERVICE",
+    "latitude": "20.67945",
+    "longitude": "-103.376",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "191",
+    "name": "(GDL-124) C. Severo D�az / C. Justo Sierra",
+    "status": "IN_SERVICE",
+    "latitude": "20.67741",
+    "longitude": "-103.38387",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "192",
+    "name": "(GDL-125) C. Pablo Villase�or / Av. Hidalgo",
+    "status": "IN_SERVICE",
+    "latitude": "20.67691",
+    "longitude": "-103.37993",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "193",
+    "name": "(GDL-126) C. Aurelio L. Gallardo / Av Hidalgo",
+    "status": "IN_SERVICE",
+    "latitude": "20.67647",
+    "longitude": "-103.37606",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "194",
+    "name": "(GDL-127) Av. Vallarta / Av. de Los Arcos",
+    "status": "IN_SERVICE",
+    "latitude": "20.67438",
+    "longitude": "-103.38488",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "195",
+    "name": "(GDL-128) Av. Morelos / C. Emilio Castelar",
+    "status": "IN_SERVICE",
+    "latitude": "20.67554",
+    "longitude": "-103.38409",
+    "dpcapacity": "23"
+  },
+  {
+    "id": "196",
+    "name": "(GDL-129) C. Lope de Vega / Av. Vallarta",
+    "status": "IN_SERVICE",
+    "latitude": "20.67455",
+    "longitude": "-103.37998",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "197",
+    "name": "(GDL-130) C. J. Ru�z de Alarc�n / Av Vallarta",
+    "status": "IN_SERVICE",
+    "latitude": "20.67448",
+    "longitude": "-103.37618",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "198",
+    "name": "(GDL-131) C. Emilio Castelar / Av. La Paz",
+    "status": "IN_SERVICE",
+    "latitude": "20.67206",
+    "longitude": "-103.384",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "199",
+    "name": "(GDL-132) C. Lope de Vega / Av. La Paz",
+    "status": "IN_SERVICE",
+    "latitude": "20.67207",
+    "longitude": "-103.37997",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "200",
+    "name": "(GDL-133) C. J. Ru�z de Alarc�n / Av. La Paz",
+    "status": "IN_SERVICE",
+    "latitude": "20.67189",
+    "longitude": "-103.37608",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "201",
+    "name": "(GDL-134) C. Agust�n Y��ez / C. Fco Ugarte",
+    "status": "IN_SERVICE",
+    "latitude": "20.67016",
+    "longitude": "-103.38448",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "202",
+    "name": "(GDL-135) C. Victoriano Ag�eros / Av. Uni�n",
+    "status": "IN_SERVICE",
+    "latitude": "20.66868",
+    "longitude": "-103.3731",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "203",
+    "name": "(GDL-136) C. Lope de Vega/C. Efra�n Glez Luna",
+    "status": "IN_SERVICE",
+    "latitude": "20.66927",
+    "longitude": "-103.37983",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "204",
+    "name": "(GDL-137) C. Ru�z de Alarc�n/C. Efra�n G Luna",
+    "status": "IN_SERVICE",
+    "latitude": "20.66957",
+    "longitude": "-103.37623",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "205",
+    "name": "(GDL-138) C. de la Nebulosa / C. Placeres",
+    "status": "IN_SERVICE",
+    "latitude": "20.66557",
+    "longitude": "-103.39134",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "206",
+    "name": "(GDL-139) C. Firmamento / Av. Ni�os H�roes",
+    "status": "IN_SERVICE",
+    "latitude": "20.66667",
+    "longitude": "-103.38863",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "207",
+    "name": "(GDL-140) C. Constelaci�n / Av. de los Arcos",
+    "status": "IN_SERVICE",
+    "latitude": "20.66816",
+    "longitude": "-103.38488",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "208",
+    "name": "(GDL-141) C. Ru�z de Alarc�n/C. Agust�n Y��ez",
+    "status": "IN_SERVICE",
+    "latitude": "20.66702",
+    "longitude": "-103.37621",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "209",
+    "name": "(GDL-142) C. De la Nebulosa / C. Firmamento",
+    "status": "IN_SERVICE",
+    "latitude": "20.6647",
+    "longitude": "-103.38855",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "210",
+    "name": "(GDL-143) C. Eclipse / Av. de Los Arcos",
+    "status": "IN_SERVICE",
+    "latitude": "20.6625",
+    "longitude": "-103.38407",
+    "dpcapacity": "23"
+  },
+  {
+    "id": "211",
+    "name": "(GDL-144) C. Primo Feliciano / C. San Gabriel",
+    "status": "IN_SERVICE",
+    "latitude": "20.669931",
+    "longitude": "-103.394307",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "212",
+    "name": "(GDL-145) C. San Miguel / Av. San Francisco",
+    "status": "IN_SERVICE",
+    "latitude": "20.66736",
+    "longitude": "-103.3947",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "213",
+    "name": "(GDL-146) Av. Guadalupe / C. Boturini",
+    "status": "IN_SERVICE",
+    "latitude": "20.6662882",
+    "longitude": "-103.3988986",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "214",
+    "name": "(GDL-147) Calz. L�zaro C�rdenas/Av. Guadalupe",
+    "status": "IN_SERVICE",
+    "latitude": "20.66623",
+    "longitude": "-103.39654",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "215",
+    "name": "(GDL-148) C. San Rafael / Av. Tepeyac",
+    "status": "IN_SERVICE",
+    "latitude": "20.66501",
+    "longitude": "-103.39788",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "216",
+    "name": "(GDL-149) Calz. L�zaro C�rdenas/L�pez Mateos",
+    "status": "IN_SERVICE",
+    "latitude": "20.66511",
+    "longitude": "-103.39388",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "217",
+    "name": "(GDL-150) C. Asunci�n / Av. Chapalita",
+    "status": "IN_SERVICE",
+    "latitude": "20.661387",
+    "longitude": "-103.392533",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "218",
+    "name": "(GDL-151) C. Capuchinas / Av. Chapalita",
+    "status": "IN_SERVICE",
+    "latitude": "20.66",
+    "longitude": "-103.39496",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "219",
+    "name": "(GDL-152) Parque de las Estrellas/C. Ori�n",
+    "status": "IN_SERVICE",
+    "latitude": "20.65931",
+    "longitude": "-103.38884",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "220",
+    "name": "(GDL-153) C. Crep�sculo / Av. Tonantzin",
+    "status": "IN_SERVICE",
+    "latitude": "20.65846",
+    "longitude": "-103.39092",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "221",
+    "name": "(GDL-154) C. Capuchinas / Av. Las Rosas",
+    "status": "IN_SERVICE",
+    "latitude": "20.65761",
+    "longitude": "-103.39363",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "222",
+    "name": "(GDL-155) Parque de las Estrellas/Mariano Ote",
+    "status": "IN_SERVICE",
+    "latitude": "20.65712973",
+    "longitude": "-103.3883797",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "223",
+    "name": "(GDL-156) C. Crep�sculo / Av. Mariano Otero",
+    "status": "IN_SERVICE",
+    "latitude": "20.6564",
+    "longitude": "-103.38956",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "224",
+    "name": "(GDL-157) Av. Mariano Otero / Av. Las Rosas",
+    "status": "IN_SERVICE",
+    "latitude": "20.65454",
+    "longitude": "-103.39162",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "225",
+    "name": "(GDL-158) Av. Faro / Av. Las Rosas",
+    "status": "IN_SERVICE",
+    "latitude": "20.65158",
+    "longitude": "-103.38957",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "226",
+    "name": "(GDL-159) C. Guadalupe Victoria /Del Ejercito",
+    "status": "IN_SERVICE",
+    "latitude": "20.66468",
+    "longitude": "-103.33357",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "227",
+    "name": "(GDL-160) C.Silverio Garcia/Blvrd. Garc�a Bar",
+    "status": "IN_SERVICE",
+    "latitude": "20.66114",
+    "longitude": "-103.3315",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "228",
+    "name": "(GDL-161) C. Rio Usumacinta/Blvrd Garc�a Barr",
+    "status": "IN_SERVICE",
+    "latitude": "20.65925",
+    "longitude": "-103.33055",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "229",
+    "name": "(GDL-162) C. Rio Tuxpan / C. Salvador Lopez C",
+    "status": "IN_SERVICE",
+    "latitude": "20.65721",
+    "longitude": "-103.33046",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "230",
+    "name": "(GDL-163) C. Corregidora / Blvrd. Garc�a B.",
+    "status": "IN_SERVICE",
+    "latitude": "20.657817",
+    "longitude": "-103.32898",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "231",
+    "name": "(GDL-164) Av. Ol�mpica /C. Jos� Rolon",
+    "status": "IN_SERVICE",
+    "latitude": "20.655",
+    "longitude": "-103.32186",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "232",
+    "name": "(GDL-165) C. Rio Panuco/ Blvrd. Garc�a B.",
+    "status": "IN_SERVICE",
+    "latitude": "20.65251",
+    "longitude": "-103.32553",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "233",
+    "name": "(GDL-166) C. Rio Principal / Blvrd. Garc�a B.",
+    "status": "IN_SERVICE",
+    "latitude": "20.65475",
+    "longitude": "-103.32719",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "234",
+    "name": "(GDL-167) C. Rio San Juan de Dios/Blvrd. Garc",
+    "status": "IN_SERVICE",
+    "latitude": "20.64962",
+    "longitude": "-103.32356",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "235",
+    "name": "(GDL-168) Av. Rio Nilo / C. Ram�n Pacheco",
+    "status": "IN_SERVICE",
+    "latitude": "20.64874",
+    "longitude": "-103.31939",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "236",
+    "name": "(GDL-169) Blvrd. Garc�a Barrag�n/ C. Rio Zapo",
+    "status": "IN_SERVICE",
+    "latitude": "20.64707",
+    "longitude": "-103.32147",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "237",
+    "name": "(GDL-170)  C. Relojeros/ C. Chamizal",
+    "status": "IN_SERVICE",
+    "latitude": "20.64698",
+    "longitude": "-103.30619",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "238",
+    "name": "(GDL-171) C. Maquinistas / C. San Rafael",
+    "status": "IN_SERVICE",
+    "latitude": "20.6461",
+    "longitude": "-103.3102",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "239",
+    "name": "(GDL-172) C. Chamizal / Av. Rio Nilo",
+    "status": "IN_SERVICE",
+    "latitude": "20.64434",
+    "longitude": "-103.30678",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "240",
+    "name": "(GDL-173) C. Caballerango / C. Caporales",
+    "status": "IN_SERVICE",
+    "latitude": "20.64504",
+    "longitude": "-103.30518",
+    "dpcapacity": "19"
+  },
+  {
+    "id": "241",
+    "name": "(GDL-174) C. Juan de Zum�rraga / Av. Tepeyac",
+    "status": "IN_SERVICE",
+    "latitude": "20.6641",
+    "longitude": "-103.4003",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "242",
+    "name": "(GDL-175) C. Ermita / C. San Uriel",
+    "status": "IN_SERVICE",
+    "latitude": "20.66234072",
+    "longitude": "-103.3981344",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "243",
+    "name": "(GDL-176) C. San Bonifacio/ Paseo Benedictino",
+    "status": "IN_SERVICE",
+    "latitude": "20.67276201",
+    "longitude": "-103.3976249",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "244",
+    "name": "(GDL-177) C. Fray Fco Frejes / C. Fco Zarco",
+    "status": "IN_SERVICE",
+    "latitude": "20.68669",
+    "longitude": "-103.37657",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "246",
+    "name": "(GDL-178) C Salvador Quevedo/C L�pez Portillo",
+    "status": "IN_SERVICE",
+    "latitude": "20.685108",
+    "longitude": "-103.333746",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "247",
+    "name": "(GDL-179) C. Monte C�ucaso / C. Sierra Nevada",
+    "status": "IN_SERVICE",
+    "latitude": "20.68795",
+    "longitude": "-103.33343",
+    "dpcapacity": "23"
+  },
+  {
+    "id": "248",
+    "name": "(GDL-180) C. Montes Pirineos/Salvador Quevedo",
+    "status": "IN_SERVICE",
+    "latitude": "20.68692",
+    "longitude": "-103.33467",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "249",
+    "name": "(GDL-181) C.Ignacio Rmrz / Av Plan de San Lui",
+    "status": "IN_SERVICE",
+    "latitude": "20.69705",
+    "longitude": "-103.36322",
+    "dpcapacity": "11"
+  },
+  {
+    "id": "250",
+    "name": "(GDL-182) Av. Plan de San Luis / Av. Enr�que",
+    "status": "IN_SERVICE",
+    "latitude": "20.6969715",
+    "longitude": "-103.3581976",
+    "dpcapacity": "15"
+  },
+  {
+    "id": "251",
+    "name": "(TLQ-006) C. Miguel Hidalgo / Calz. Revoluci�",
+    "status": "IN_SERVICE",
+    "latitude": "20.639042",
+    "longitude": "-103.301239",
+    "dpcapacity": "15"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "mibici-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.4.0"
+  }
+}
